@@ -1,0 +1,1 @@
+data class MemoryCard(val id: Int, val content: String, val isFaceUp: Boolean = false, val isMatched: Boolean = false)
