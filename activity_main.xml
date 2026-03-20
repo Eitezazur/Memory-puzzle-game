@@ -1,0 +1,10 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="3"
+    android:columnCount="4"
+    android:padding="16dp">
+
+    <!-- Memory Card Views will be added here -->
+
+</GridLayout>
